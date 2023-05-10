@@ -1,8 +1,12 @@
 # solidity
-PROBLEMS WITH CURRENT KYC
+**SOLUTION USING BLOCKCHAIN 🧱**
 
-Disparity in Specifications for KYC. Every bank has their own KYC process setup and customers need to do the KYC again and again for each bank. Due to lack of KYC standards compiling reach request is time-consuming. Adverse impact on Customer relationship. It becomes irksome for the customers to provide the same information to different banking entities and industries. Banks may even follow up with customers to get more details on KYC.
+Blockchain technology offers potential solutions to address the problems associated with the current KYC process:
 
-SOLUTION USING BLOCKCHAIN
+**Standardization and Consistency ✅:** A blockchain-based KYC system can establish standardized specifications and requirements for customer verification. All participating banks can agree upon a common set of KYC rules and procedures, ensuring consistency across the industry and reducing disparity.
 
-Banks can utilize the feature set of Blockchain to reduce the difficulties faced by the traditional KYC process. A distributed ledger can be setup between all the banks, where one bank can upload the KYC of a customer and other banks can vote on legitimacy of the customer details. KYC for the customers can be immutably stored and accesses from the Blockchain.
+**Streamlined Data Compilation 📚:** By utilizing a blockchain network, customers' KYC information can be securely stored and accessed by authorized parties. Once customers complete the KYC process with one bank, their verified details can be shared with other banks through the blockchain, eliminating the need for repetitive submissions.
+
+**Improved Customer Experience 😊: ** Implementing a blockchain-based KYC system simplifies the process for customers. They no longer need to provide the same information multiple times, reducing frustration and saving time. This improved customer experience strengthens the relationship between customers and banks.
+
+By leveraging blockchain technology, the banking industry can overcome the challenges associated with the current KYC process. Standardization, streamlined data compilation, and enhanced customer experience can be achieved, ultimately benefiting both customers and banking entities.
