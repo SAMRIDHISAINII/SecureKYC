@@ -1,4 +1,4 @@
-# solidity
+# SecureKYC
 
 #### Tech Used
 🔹 The main technology used in this Solidity contract is the Ethereum blockchain platform. Solidity is the programming language used to write smart contracts on the Ethereum network. It enables the implementation of the KYC contract's business logic and rules. 💻🌐
