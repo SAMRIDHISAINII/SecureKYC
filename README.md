@@ -5,6 +5,7 @@
 
 🔹 Other technologies and concepts utilized in this contract include:
 
+
 🔸 Ethereum Virtual Machine (EVM): The EVM is the runtime environment for executing smart contracts on the Ethereum network. ⚙️💡
 
 🔸 Cryptography: Cryptographic algorithms and techniques are used for data encryption, validation, and securing the KYC data stored on the blockchain. 🔒🔑
