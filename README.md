@@ -22,7 +22,6 @@
 
 🔸 Events: Events are used to emit specific occurrences or actions within the contract. They allow external applications to listen for these events and take appropriate actions. 📢👂
 
-
 **SOLUTION USING BLOCKCHAIN 🧱**
 
 Blockchain technology offers potential solutions to address the problems associated with the current KYC process:
